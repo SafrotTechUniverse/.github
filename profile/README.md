@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="../assets/SafrotTechUniverse.png"> 
+  <img src="SafrotTechUniverse.png"> 
 </p>
 
 <div align="center">
