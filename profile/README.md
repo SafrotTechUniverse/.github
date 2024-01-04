@@ -1,12 +1,9 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+  ### Support My Work ☕
 
-**Here are some ideas to get you started:**
+  If you find my work helpful or just want to buy me a virtual coffee, you can do so through my [Buy Me a Coffee](https://www.buymeacoffee.com/safrottechuniverse) page. Your support is greatly appreciated!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange)](https://www.buymeacoffee.com/safrottechuniverse)
+
+</div>
